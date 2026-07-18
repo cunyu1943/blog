@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cunyu1943.github.io/sitemap.xml
+Sitemap: https://cunyu1943.github.io/blog/sitemap.xml
