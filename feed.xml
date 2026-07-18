@@ -6,7 +6,7 @@
     <description>「公众号：村雨遥」的大本营，资源分享，精选福利</description>
     <language>zh-cn</language>
     <generator>Gridea Pro</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 21:53:02 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 22:04:14 +0800</lastBuildDate>
     <atom:link href="https://cunyu1943.github.io/blog/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <item>
       <title>202607 每日分享</title>
@@ -76,6 +76,9 @@
 <li><a href="https://github.com/Fei-Away/Codex-Dream-Skin">Codex-Dream-Skin</a></li>
 </ul>
 <p>给 Codex 桌面端换一张会呼吸的脸。外部主题 / 换肤工具，通过本机 CDP 注入，不改官方安装包。</p>
+<h2 id="0718">0718</h2>
+<p><a href="https://github.com/iliyami/MacSai">MacSai</a></p>
+<p>一款免费、开源的 macOS 应用，可以清理垃圾文件、清除恶意软件、优化性能、彻底卸载应用，并将磁盘占用可视化，全部集成在一个精美统一的界面中。它复刻了 CleanMyMac 的每一项主要功能，同时完全透明、由社区驱动。</p>
 ]]></description>
       <category>资源</category>
       <category>网站</category>
