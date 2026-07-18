@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>村雨遥的博客</title>
-    <link>https://cunyu1943.github.io/blog/</link>
+    <link>https://cunyu1943.github.io/</link>
     <description>「公众号：村雨遥」的大本营，资源分享，精选福利</description>
     <language>zh-cn</language>
     <generator>Gridea Pro</generator>
     <lastBuildDate>Sat, 18 Jul 2026 22:04:14 +0800</lastBuildDate>
-    <atom:link href="https://cunyu1943.github.io/blog/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://cunyu1943.github.io/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <item>
       <title>202607 每日分享</title>
-      <link>https://cunyu1943.github.io/blog/post/202607-daily-share/</link>
-      <guid isPermaLink="true">https://cunyu1943.github.io/blog/post/202607-daily-share/</guid>
+      <link>https://cunyu1943.github.io/post/202607-daily-share/</link>
+      <guid isPermaLink="true">https://cunyu1943.github.io/post/202607-daily-share/</guid>
       <pubDate>Sat, 18 Jul 2026 21:43:14 +0800</pubDate>
       <description><![CDATA[<blockquote>
 <p>发现不错的资源，即可点击<a href="https://github.com/cunyu1943/weekly/issues">这里</a>快速投稿。</p>
