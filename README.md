@@ -20,5 +20,5 @@
 - GitHub: [村雨遥](https://github.com/cunyu1943)
 - 公众号：村雨遥
 
-<img src="./docs/public/imgs/contact/contact.png" width="50%" />
+<img src="./docs/src/public/imgs/contact/contact.png" width="50%" />
 
