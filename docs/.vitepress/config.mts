@@ -61,17 +61,17 @@ export default defineConfig({
           { type: 'text', content: '👇 微信 👇<------->👇 公众号 👇' },
           {
             type: 'image',
-            src: 'imgs/contact/wechat.jpg',
+            src: '/imgs/contact/wechat.jpg',
             style: 'display: inline-block;width:46%;padding-right:6px'
           },
           {
             type: 'image',
-            src: 'imgs/contact/wepublic.jpg',
+            src: '/imgs/contact/wepublic.jpg',
             style: 'display: inline-block;width:46%;padding-left:6px'
           }
         ],
         footer: [
-          {
+          { 
             type: 'text',
             content: '还可以通过这里找到我'
           },

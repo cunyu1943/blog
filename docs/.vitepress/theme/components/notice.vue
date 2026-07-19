@@ -22,7 +22,7 @@ setTimeout(function () { visible.value = false }, 5000);
         </strong>
       </p>
       <p>二、联系我</p>
-      <img class="notice-img" src="imgs/contact/contact.png">
+      <img class="notice-img" src="/imgs/contact/contact.png">
     </div>
     <div class="notice-footer">
       <div class="notice-btn" @click="closetz">朕知道了</div>
