@@ -27,7 +27,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
             text: '热门精选',
             collapsed: false,
             items: [
-                { text: '202607 热门精选', link: '/hot-picks/202607.md' },
+                { text: '购物省钱 App', link: '/hot-picks/20260721-shopping-app.md' },
             ]
         }
     ],
