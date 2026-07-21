@@ -32,6 +32,8 @@ hero:
 #     linkText: 了解更多
 ---
 
+<HomeUnderline />
+
 ## 你能在这里看到什么
 
 - 每日分享
@@ -49,4 +51,8 @@ hero:
 </center>
 
 
-<HomeUnderline />
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=cunyu1943/blog&type=date&legend=top-left&sealed_token=ukse4-MxftjKS99X4SeTw5IU9N1DwTQ2CIhYoDRuB22DvfZznWIOPzhnljZR8tDI51fPCLRfnAuzsYmBpY7OwOqq9Q3l9TIpbYtJVugGtRT6dE6M3nTaPA)](https://www.star-history.com/?repos=cunyu1943%2Fblog&type=date&legend=top-left)
