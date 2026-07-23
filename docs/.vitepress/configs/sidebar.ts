@@ -17,7 +17,13 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
             text: '资源分享',
             collapsed: false,
             items: [
-                { text: '202607 每日分享', link: '/resource-share/202607.md' },
+                {
+                    text: '影视',
+                    collapsed: true,
+                    items: [
+                        { text: '《老千》三部曲', link: '/resource-share/movie/20260722-the-war-of-flower.md' },
+                    ]
+                },
             ]
         }
     ],
