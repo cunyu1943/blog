@@ -8,14 +8,17 @@ hero:
   image:
     # src: contact/contact.png # 
     src: imgs/site/logo.png
-  tagline: 「公众号：村雨遥」的大本营
+  tagline: 「公众号：村雨遥」的大本营，除此之外还能找到更多关于公众号不方便分享出来的内容。
   actions:
     - theme: brand
       text: 每日分享
       link: /daily-share/
     - theme: alt
       text: 资源分享
-      link: /resource-share
+      link: /resource-share/
+    - theme: alt
+      text: 精选福利
+      link: /hot-picks/
 
 # features:
 #   - title: Feature A
@@ -47,7 +50,7 @@ hero:
 - 微信：coder_cunYu
 
 <center>
-<img src="/imgs/contact/contact.png" width="40%" />
+<img src="/imgs/contact/contact.png" width="30%" />
 </center>
 
 
