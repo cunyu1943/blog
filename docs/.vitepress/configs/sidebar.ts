@@ -47,6 +47,15 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
                     items: [
                         { text: '斗鱼温柠热舞', link: '/resource-share/beauty/20260725-wenning-dance.md' },
                         { text: '金琳性感舞蹈', link: '/resource-share/beauty/20260725-jinlin-sexy-dance.md' },
+                        { text: '萌七舞蹈热舞', link: '/resource-share/beauty/20260728-mengqi.md' },
+                    ],
+                },
+
+                {
+                    text: '软件',
+                    collapsed: true,
+                    items: [
+                        { text: '谷歌三件套', link: '/resource-share/software/20260728-google-suits.md' },
                     ],
                 },
             ]
