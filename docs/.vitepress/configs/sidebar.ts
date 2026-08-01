@@ -12,7 +12,8 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
                     collapsed: true,
                     items: [
                         { text: '202607 每日分享', link: '/daily-share/202607.md' },
-                    ],
+                        { text: '202608 每日分享', link: '/daily-share/202608.md' },
+                    ]
                 }
             ]
         }
@@ -48,6 +49,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
                         { text: '斗鱼温柠热舞', link: '/resource-share/beauty/20260725-wenning-dance.md' },
                         { text: '金琳性感舞蹈', link: '/resource-share/beauty/20260725-jinlin-sexy-dance.md' },
                         { text: '萌七舞蹈热舞', link: '/resource-share/beauty/20260728-mengqi.md' },
+                        { text: '韩国丰满女神', link: '/resource-share/beauty/20260801-velvettube.md' },
                     ],
                 },
 
