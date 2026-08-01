@@ -25,9 +25,6 @@ devDependencies:
   '@nolebase/vitepress-plugin-git-changelog':
     specifier: ^2.18.2
     version: 2.18.2(vitepress@1.6.4)(vue@3.5.40)
-  busuanzi.pure.js:
-    specifier: ^1.0.3
-    version: 1.0.3
   sass-embedded:
     specifier: ^1.100.0
     version: 1.100.0
@@ -1480,10 +1477,6 @@ packages:
     engines: {node: '>=8'}
     dependencies:
       fill-range: 7.1.1
-    dev: true
-
-  /busuanzi.pure.js@1.0.3:
-    resolution: {integrity: sha512-tPULdyx+8NNb9geZYDpktKmHAYx9f2LEOBaHyWCaM7iPEMIa/43KgYAUluuU7YG9UFSOFpj4dO7Nj2Vlu3V9Rg==}
     dev: true
 
   /ccount@2.0.1:

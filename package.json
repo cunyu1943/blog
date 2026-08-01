@@ -1,7 +1,6 @@
 {
   "devDependencies": {
     "@nolebase/vitepress-plugin-git-changelog": "^2.18.2",
-    "busuanzi.pure.js": "^1.0.3",
     "sass-embedded": "^1.100.0",
     "vitepress": "^1.6.4",
     "vitepress-plugin-group-icons": "^1.7.5",
