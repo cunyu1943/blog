@@ -50,6 +50,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
                         { text: '金琳性感舞蹈', link: '/resource-share/beauty/20260725-jinlin-sexy-dance.md' },
                         { text: '萌七舞蹈热舞', link: '/resource-share/beauty/20260728-mengqi.md' },
                         { text: '韩国丰满女神', link: '/resource-share/beauty/20260801-velvettube.md' },
+                        { text: '孙允珠写真合集', link: '/resource-share/beauty/20260804-son-youn-ju.md' },
                     ],
                 },
 
