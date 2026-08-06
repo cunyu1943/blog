@@ -51,7 +51,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: 📦 Install dependencies
-        run: pnpm install --frozen-lockfile  # 生产环境必须使用锁文件
+        run: pnpm install 
 
       - name: 🏗️ Build with VitePress
         run: pnpm docs:build
