@@ -21,7 +21,7 @@ jobs:
   # -------- 构建阶段 --------
   build:
     # 🔥 改动 1：显式锁定 Runner 版本，避免 "hosted runner 未获取" 错误
-    runs-on: ubuntu-24.04
+    runs-on: latest
     
     # 🔥 改动 2：增加超时防御，避免卡死在排队阶段浪费配额
     timeout-minutes: 30
@@ -41,7 +41,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           # 🔥 改动 4：切换至 Node 20 LTS（稳定性首选）
-          node-version: 20
+          node-version: latest
           # 开启 pnpm 缓存，并显式指定 lock 文件路径，提高命中率
           cache: pnpm
           # cache-dependency-path: pnpm-lock.yaml
@@ -71,7 +71,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     needs: build
-    runs-on: ubuntu-24.04  # 同样锁定版本
+    runs-on: latest  # 同样锁定版本
     name: Deploy
     steps:
       # 🔥 改动 7：deploy-pages 保持 v4（最新），没问题
