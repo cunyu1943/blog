@@ -20,19 +20,19 @@ hero:
       text: 精选福利
       link: /hot-picks/
 
-# features:
-#   - title: Feature A
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     link: /api-examples
-#     linkText: 了解更多
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     link: /api-examples
-#     linkText: 了解更多
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     link: /api-examples
-#     linkText: 了解更多
+features:
+  - title: 🗓️ 每日分享
+    details: 每天为你搜罗互联网上新鲜有趣的网站、工具与资源，涵盖影视、软件、学习等各个方面，发现好物即可一键投稿，轻松拓展你的数字生活。
+    link: /daily-share/
+    linkText: 了解更多
+  - title: 🗃️ 资源分享
+    details: 精选各类实用资源合集，包括经典影视剧集、优质美女写真、实用软件工具等，并附带详细的获取与安装教程，帮你省时省力一站式搞定。
+    link: /resource-share/
+    linkText: 了解更多
+  - title: 🧧 精选福利
+    details: 独家整理的省钱秘籍与生活福利，分享各类返利优惠平台与省钱攻略，让你在网购、外卖等日常消费中轻松省下更多，实惠看得见。
+    link: /hot-picks
+    linkText: 了解更多
 ---
 
 <HomeUnderline />
