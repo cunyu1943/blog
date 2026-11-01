@@ -15,6 +15,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
                         { text: '202608 每日分享', link: '/daily-share/202608.md' },
                         { text: '202609 每日分享', link: '/daily-share/202609.md' },
                         { text: '202610 每日分享', link: '/daily-share/202610.md' },
+                        { text: '202611 每日分享', link: '/daily-share/202611.md' },
                     ]
                 }
             ]
